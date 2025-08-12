@@ -1,0 +1,8 @@
+Enter a password to test: password123
+Password Strength: Weak
+Issues found:
+ - No uppercase letters.
+ - No special characters.
+
+SHA256: <hex>
+Salted SHA256: <hex>
